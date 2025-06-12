@@ -13,9 +13,10 @@ you need to type this in your terminal and have downloaded requirements.txt file
 
 Installation is realy simple all you need to do is
 - create a brand new google account
-- create an email on it 
-
------in your terminal-----
+- create an email on it
+- get the apps password and paste it there:
+  ![image](https://github.com/user-attachments/assets/e4a3c38e-4633-433e-8753-365208e24bed)
+- now go and paste this in your terminal
 ```
   python -m PyInstaller -w -F .py --icon=icon.ico --name=Win64STAT
 ```
